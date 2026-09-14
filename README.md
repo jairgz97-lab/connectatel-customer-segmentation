@@ -1,4 +1,4 @@
-# 📊 Proyecto ConnectaTel — Análisis y Segmentación de Clientes
+# 📱 ConnectaTel: Análisis, Limpieza y Segmentación de Clientes
 
 Este repositorio contiene el desarrollo y los hallazgos del proyecto de análisis de datos para **ConnectaTel**, una empresa de telecomunicaciones en Latinoamérica. El objetivo principal es evaluar el comportamiento de los usuarios registrados hasta el año 2024, construir perfiles estadísticos detallados, limpiar anomalías estructurales de los datos y diseñar una estrategia de negocio basada en segmentos de consumo y demográficos.
 
